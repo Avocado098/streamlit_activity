@@ -35,14 +35,14 @@ st.divider()
 st.markdown("""
 ### 🚨 Top Performers
 
-- **🔌 USB-C Charging Cable** – Leading the pack! Over **130,000 units** sold. Affordable, essential, and always in demand.
-- **⚡ Lightning Charger** – Another power player with equally strong numbers. Apple users clearly love their fast charge!
-- **🔋 AAA Batteries (4-pack)** – Powering up the leaderboard. Who knew batteries would be this competitive?
+- **🔌 Lightning Charger** – Leading the pack. It's clear that people are amazed by the lighting of the charger.
+- **⚡ USB-C Charging Cable** – Affordable, essential, and always in demand. Over **3,500 units** sold.
+- **🔋 AAA Batteries (4-pack)** – Who knew batteries would be this competitive?
 
-### 🎧 Popular Picks
+### 📉 Lowest Performers
 
-- **🎶 Apple AirPods Headphones** and **Wired Headphones** are racking up sales. Music lovers unite – wireless or not!
-- **📺 Flat Screen TVs** and **SoundSport Speakers** also made it to the top tier.
+- **🚿 LG Washing Machine** and **🔥 LG Dryer** struggled to make an impact — big ticket items, but low traction.
+- Could it be the price? Or are customers shopping elsewhere for home appliances? Either way, these two missed the mark.           
 
 ### 🤯 Surprise Twist
 
